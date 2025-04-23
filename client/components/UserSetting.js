@@ -22,12 +22,12 @@ import "firebase/compat/storage";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCVBbACohSkuUr0FntAmt9BvMUK-RkpY-E",
-  authDomain: "delivair-959e9.firebaseapp.com",
-  projectId: "delivair-959e9",
-  storageBucket: "delivair-959e9.appspot.com",
-  messagingSenderId: "1084409904306",
-  appId: "1:1084409904306:web:03f5e420eb889f115d1dab",
+  apiKey: "// Demo placeholder for secure booking API",
+  authDomain: "// Demo placeholder for secure booking API",
+  projectId: "// Demo placeholder for secure booking API",
+  storageBucket: "// Demo placeholder for secure booking API",
+  messagingSenderId: "// Demo placeholder for secure booking API",
+  appId: "// Demo placeholder for secure booking API",
 };
 
 if (!firebase.apps.length) {
